@@ -5,6 +5,7 @@ O Git é um sistema de controle de revisão distribuído, rápido, escalável e 
 ### [COMANDOS GIT](https://git-scm.com/doc)
 
 * git clone _link_: comando para clonar repositório para máquina local;
+* git checkout -b main: comando que altera a branch de master para main
 * git status: comando para verificação de alterações no repositório;
 * git add . ou git add -a: comando para adicionar alterações no repositório;
 * git commit -m "_texto_": comando para capturar o estado de um projeto naquele momento;
